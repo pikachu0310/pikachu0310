@@ -1,11 +1,12 @@
 ### Hi there 👋
+![Metrics](https://metrics.lecoq.io/pikachu0310?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTokyo)
 
 I'm pikachu0310, or teruki0310, a member from [Digital Creators Club traP](https://trap.jp).
 I'm currently learning in [Tokyo Institute of Technology](https://educ.titech.ac.jp/cs/eng/).
 
 **portfolio: https://pichu.dev**
 
-![Metrics](https://metrics.lecoq.io/pikachu0310?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTokyo)
+![portfolio image](https://cacoo.com/diagrams/YRsED6KwGUDoJ2rq-A49EB.png)
 [![trophy](https://github-profile-trophy.vercel.app/?username=pikachu0310&theme=onedark&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 [![github stats](https://github-readme-stats.vercel.app/api?username=pikachu0310&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu0310&hide=html,Makefile,ASP.NET&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
