@@ -5,10 +5,10 @@ I'm currently learning in [Tokyo Institute of Technology](https://educ.titech.ac
 
 **portfolio: https://pichu.dev**
 
+![Metrics](https://metrics.lecoq.io/pikachu0310?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTokyo)
 [![trophy](https://github-profile-trophy.vercel.app/?username=pikachu0310&theme=onedark&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 [![github stats](https://github-readme-stats.vercel.app/api?username=pikachu0310&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu0310&hide=html,Makefile,ASP.NET&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **pikachu0310/pikachu0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
