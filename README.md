@@ -3,11 +3,11 @@
 I'm pikachu0310, or teruki0310, a member from [Digital Creators Club traP](https://trap.jp).
 I'm currently learning in [Tokyo Institute of Technology](https://educ.titech.ac.jp/cs/eng/).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pikachu0310)](https://github.com/ryo-ma/github-profile-trophy)
+**portfolio: https://pichu.dev**
 
-![motoki317's github stats](https://github-readme-stats.vercel.app/api?username=pikachu0310&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu0310&hide=html,Makefile&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pikachu0310&theme=onedark&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![github stats](https://github-readme-stats.vercel.app/api?username=pikachu0310&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu0310&hide=html,Makefile,ASP.NET&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pikachu0310/pikachu0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
