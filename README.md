@@ -7,9 +7,9 @@ I'm currently learning in [Tokyo Institute of Technology](https://educ.titech.ac
 **portfolio: https://pichu.dev**
 
 ![portfolio image](https://cacoo.com/diagrams/YRsED6KwGUDoJ2rq-A49EB.png)
-[![trophy](https://github-profile-trophy.vercel.app/?username=pikachu0310&theme=onedark&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-[![github stats](https://github-readme-stats.vercel.app/api?username=pikachu0310&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu0310&hide=html,Makefile,ASP.NET&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](./profile/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+[![github stats](./profile/github-stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pikachu0310/pikachu0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
