@@ -9,6 +9,8 @@ on:
       - main
     paths:
       - README.md
+      - .github/scripts/hide-trophy.py
+      - .github/workflows/update-profile-cards.yml
 
 permissions:
   contents: write
@@ -27,11 +29,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: onedark
 
+      - name: Hide Reviews trophy
+        run: python .github/scripts/hide-trophy.py profile/trophy.svg Reviews
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@6269b9a08af89020bb86cde31485d18c7d41ac33
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&theme=monokai
+          options: username=${{ github.repository_owner }}&include_all_commits=true&theme=monokai
           path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
